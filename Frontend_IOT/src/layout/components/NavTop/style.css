@@ -1,0 +1,7 @@
+body.dark .bg-memu-bar{
+  background: #222;
+}
+body.light .bg-memu-bar{
+  /* background: whitesmoke; */
+  background: linear-gradient(135deg, rgb(70, 35, 224) 0%,rgb(45, 253, 249) 100%);
+}
